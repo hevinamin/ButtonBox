@@ -1,0 +1,11 @@
+All red button terminals:
+[Button 1] ----> Pin D2
+[Button 2] ----> Pin D3
+[Button 3] ----> Pin D4
+[Button 4] ----> Pin D5
+[Button 5] ----> Pin D6
+[Button 6] ----> Pin D7
+[Button 7] ----> Pin D8
+[Button 8] ----> Pin D9
+
+All black button terminals ----> GND
