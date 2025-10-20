@@ -12,6 +12,11 @@ This is all done using 8 momentary buttons, a Pro Micro board, and a breadboard,
 
 I do not claim ownership for the code and you guys can use it as you see fit. Some adjustments can be made to better fit your needs!
 
+You will need to install the Joystick library from the following link: https://github.com/MHeironimus/ArduinoJoystickLibrary .
+In Arduino IDE:
+Go to Sketch -> Include Library -> Add .ZIP Library
+Find your downloaded .zip from the link and import it.
+
 I HIGHLY recommend getting a new 1 foot to 3 feet data cable, either USB-C or Micro USB depending on your Pro Micro manufacturer. However, any old data cable that connects to your PC and Pro Micro works! 
 
 Hope you have fun!
