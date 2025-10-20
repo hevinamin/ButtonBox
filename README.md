@@ -4,7 +4,7 @@ An 8-button button box used for racing simulators including Assetto Corsa, iRaci
 
 Hello! This is a project I made for myself due to running out of options on my wheel.
 
-Currently, I use a Moza GSV2P Wheel, which is a phenomenal piece of machinery, but some of the buttons and their labels aren't anything that I need, and sometimes I see myself running out of room.
+Currently, I use a Moza GS V2P Wheel, which is a phenomenal piece of machinery, but some of the buttons and their labels aren't anything that I need, and sometimes I see myself running out of room.
 
 I did some research, and stumbled upon the possibility of converting an Arduino Pro Micro into an HID device that my simulators such as Assetto Corsa, iRacing, and Assetto Corsa Compitizione, and Le Mans Ultimate can use.
 
